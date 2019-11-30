@@ -1,4 +1,4 @@
 *.csv
 .terraform
 *.tfstate
-*.code-workspace
+old.code-workspace
